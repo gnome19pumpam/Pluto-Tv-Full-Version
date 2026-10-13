@@ -266,4 +266,4 @@ This repository serves as the official landing page for Pluto TV. The software i
 **Get the most recent version of Pluto TV today!**
 
 ---
-**Last updated:** 2026-10-12 21:37:05 UTC
+**Last updated:** 2026-10-13 02:53:32 UTC
